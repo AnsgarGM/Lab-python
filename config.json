@@ -1,0 +1,13 @@
+{
+    "malware_name": "codigo3",
+    "md5opc": "TRUE",
+    "sha1opc": "TRUE",
+    "sha256opc": "TRUE",
+    "fileopc": "TRUE",
+    "binheaderopc": "TRUE",
+    "symopc": "TRUE",
+    "eh_frameopc": "TRUE",
+    "callsysopc": "TRUE",
+    "libopc": "TRUE",
+    "disopc": "TRUE"
+  }

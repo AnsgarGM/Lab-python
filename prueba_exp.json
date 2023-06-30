@@ -1,0 +1,10 @@
+{
+    "name": "Temp",
+    "description": "Analisis estatico por el momento",
+    "author": "Equipo 15",
+    "samples": ["/home/zoilom/Documentos/AnalisisyDetecciondeMalware/Lab-python/goodware/crud"],
+    "analysis": {
+        "static": [],
+        "dynamic": ["call_sys"]
+    }
+}

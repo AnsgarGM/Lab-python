@@ -1,0 +1,12 @@
+
+{
+    "malware_name": "codigo3",
+    "loop_exp": 2,
+    "static_test":"TRUE",
+    "call_sys": "TRUE",
+    "lib_sys": "TRUE",
+    "lib_sys_time": "TRUE",
+    "net_pcap":"TRUE",
+    "lsof":"TRUE"
+    
+}
